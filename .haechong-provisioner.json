@@ -1,0 +1,12 @@
+{
+  "policy_branch": "kmong-productization",
+  "policy_repo": "hibi89/hackathon-command-center-2026",
+  "policy_sha": "341e8e9439bf304fd638bb40417e8367ce0d20f3",
+  "product_implementation": "NOT_STARTED",
+  "product_verification": "UNASSESSED",
+  "project": "Haechong Test-A/B/C PUBLIC development-standard workspaces",
+  "repository": "hibi89/Test-C",
+  "request_id": "haechong-test-abc-20261118-0307",
+  "schema_version": 1,
+  "visibility": "public"
+}
